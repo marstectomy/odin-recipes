@@ -8,3 +8,5 @@ What I hope to learn once I'm done with this project is:
 - How to code a website using different HTML elements properly.
 - How to commit any changes frequently and with good descriptions.
 - Get more used to using the Terminal, Github and VScode.
+
+These are my goals!
